@@ -3,7 +3,7 @@
 }
 
 #page-landing #container{
-    color: var(--color-text-in-primary)
+    color: var(--color-text-in-primary);
 }
 
 .logo-container img {
