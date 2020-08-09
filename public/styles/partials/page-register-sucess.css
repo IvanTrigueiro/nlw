@@ -1,0 +1,7 @@
+#page-success{
+    background: var(--color-primary);
+}
+
+#page-success #container{
+    color: var(--color-text-in-primary)
+}
